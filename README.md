@@ -33,8 +33,8 @@ $ sudo apt-get install libtesseract-dev
 ```
 
 
+## Install the requirements
 ```bash
-# Install the requirements
 $ python3 -m pip install -r requirements.txt
 ```
 
