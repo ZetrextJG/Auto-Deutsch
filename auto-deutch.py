@@ -15,7 +15,7 @@ flag = False
 
 def shot_and_parse(itemId):
     global flag
-    webbrowser.open(process_data(itemId, flag).replace("\n", ' '))
+    webbrowser.open(process_data(itemId, flag).replace("\n", '%0A'))
 
 
 class Application():
