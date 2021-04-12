@@ -41,7 +41,7 @@ $ python3 -m pip install -r requirements.txt
 ## Usage
 
 ```bash
-$ python3 auto-deutch.py
+$ python3 auto-deutsch.py
 
 # Wait for the GUI to pop up
 # Press the green button to start screen capturing and select wanted area
@@ -52,7 +52,7 @@ $ python3 auto-deutch.py
 
 ## Settings
 ```bash
-$ python3 auto-deutch.py --pln 1
+$ python3 auto-deutsch.py --pln 1
 # This command runs appliaction in experimental mode that translates text straight to Polish language.
 ```
 
